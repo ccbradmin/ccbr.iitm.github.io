@@ -1,2 +1,2 @@
-# ccbr.github.io
+# ccbr.iitm.github.io
 CCBR - IITM's page.
